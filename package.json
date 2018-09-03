@@ -1,0 +1,9 @@
+{
+  "name": "cz-storage",
+  "version": "1.0.0",
+  "description": "local-storage with type and time",
+  "main": "index.js",
+  "repository": "https://github.com/xiejun-net/cz-storage.git",
+  "author": "xiejun",
+  "license": "MIT"
+}
