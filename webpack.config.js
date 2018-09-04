@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'cz-storage.js'
+    filename: 'cz-storage.min.js'
   },
   module: {
     rules: [
