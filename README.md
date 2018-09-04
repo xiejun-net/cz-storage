@@ -1,7 +1,7 @@
 ## cz-storage 解决问题
-1. 前端js使用LlocalStorage的时候只能存字符串,不能存储对象
+### 1. 前端js使用LlocalStorage的时候只能存字符串,不能存储对象
 > cz-storage 可以存储 object undefined number string
-2. localStorage没有过期时间
+### 2. localStorage没有过期时间
 > cz-storage 可以设置以天为单位的过期时间
 
 ## 安装
